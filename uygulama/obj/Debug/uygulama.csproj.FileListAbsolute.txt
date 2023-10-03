@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\uygulama\uygulama\bin\Debug\uygulama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\uygulama\uygulama\bin\Debug\uygulama.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\uygulama\uygulama\bin\Debug\uygulama.pdb
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\uygulama\uygulama\obj\Debug\uygulama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\uygulama\uygulama\obj\Debug\uygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\uygulama\uygulama\obj\Debug\uygulama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\uygulama\uygulama\obj\Debug\uygulama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\uygulama\uygulama\obj\Debug\uygulama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\uygulama\uygulama\obj\Debug\uygulama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\uygulama\uygulama\obj\Debug\uygulama.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\uygulama\uygulama\obj\Debug\uygulama.pdb
